@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!---https://github.com/anuraghazra/github-readme-stats-->
+![Group 19](https://github.com/junbyeol/JunByeol/assets/47721775/05807844-727b-4319-966e-26ce287c7cd5)
 
 [![](http://img.shields.io/badge/-Blog-663399?style=flat-square&logo=gatsby&logoColor=white&link=https://junbyeol.tistory.com)](https://junbyeol.tistory.com)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:yoonjs0510@kaist.ac.kr)](mailto:yoonjs0510@kaist.ac.kr)
