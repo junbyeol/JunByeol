@@ -4,8 +4,8 @@
   <img src="https://github.com/junbyeol/JunByeol/assets/47721775/05807844-727b-4319-966e-26ce287c7cd5">
 </p>
 
-> 웹 백엔드를 메인으로 하고 있는 윤준성입니다.<br/>
-> 프론트엔드, devOps, 디자인 등 웹 서비스를 구축하는 데 필요한 기술 전반에 관심이 많습니다.<br/>
+> Node.JS 백엔드를 메인으로 하고 있는 윤준성입니다.<br/>
+> 프론트엔드, devOps, 디자인 등 웹/앱 서비스를 구축하는 데 필요한 기술 전반에 관심이 많습니다.<br/>
 > Javascript/Typescript 진영의 생태계에 능숙합니다.
 
 ## Familiar 🛠
